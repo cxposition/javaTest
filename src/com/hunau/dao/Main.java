@@ -3,6 +3,6 @@ package com.hunau.dao;
 public class Main {
 
     public static void main(String[] args) {
-	    System.out.println("hello,My friend");
+	    System.out.println("hello");
     }
 }
